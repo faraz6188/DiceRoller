@@ -1,5 +1,5 @@
 import random
-print("This is a dice stimulator")
+print("This is a dice stimulator\n")
 x = "y"
 
 while x == "y":
@@ -41,5 +41,5 @@ while x == "y":
         print("| O     O |")
         print("| O     O |")
         print("----------")
-    x = input("Press y to roll again")
+    x = input("Press y to roll again\n")
     
